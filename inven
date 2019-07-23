@@ -1,0 +1,11 @@
+[elk]
+elktest1.jicd.lgsdirect.com
+elktest2.jicd.lgsdirect.com
+elktest3.jicd.lgsdirect.com
+
+[elk:vars]
+ansible_connection=ssh
+ansible_user=warr
+ansible_ssh_pass=readysettest
+
+
